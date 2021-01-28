@@ -3,4 +3,4 @@ Created API for fetch data from IMDB API if user search does not exist in local 
 
 
 
-![](take_screenshort/movie_search.png)
+![](movie_search.png)
