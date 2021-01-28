@@ -3,7 +3,6 @@ Created API for fetch data from IMDB API if user search does not exist in local 
 
 # SEARCH by title if search data does not exist in your local database then it will fetch from IMBD API.
 ![](search_title.png)
-<br>
 # results API Data
 ![](search_title_data.png)
 <br><br>
@@ -11,4 +10,4 @@ Created API for fetch data from IMDB API if user search does not exist in local 
 ![](movie_search.png)
 <br>
 # results API Data
-![](movie_result.png)
+![](movies_result.png)
